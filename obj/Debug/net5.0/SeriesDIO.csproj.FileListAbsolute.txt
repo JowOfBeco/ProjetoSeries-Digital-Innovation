@@ -1,0 +1,16 @@
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Digital Innovation\C#\SeriesDIO\bin\Debug\net5.0\SeriesDIO.exe
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Digital Innovation\C#\SeriesDIO\bin\Debug\net5.0\SeriesDIO.deps.json
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Digital Innovation\C#\SeriesDIO\bin\Debug\net5.0\SeriesDIO.runtimeconfig.json
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Digital Innovation\C#\SeriesDIO\bin\Debug\net5.0\SeriesDIO.runtimeconfig.dev.json
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Digital Innovation\C#\SeriesDIO\bin\Debug\net5.0\SeriesDIO.dll
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Digital Innovation\C#\SeriesDIO\bin\Debug\net5.0\ref\SeriesDIO.dll
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Digital Innovation\C#\SeriesDIO\bin\Debug\net5.0\SeriesDIO.pdb
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Digital Innovation\C#\SeriesDIO\obj\Debug\net5.0\SeriesDIO.csprojAssemblyReference.cache
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Digital Innovation\C#\SeriesDIO\obj\Debug\net5.0\SeriesDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Digital Innovation\C#\SeriesDIO\obj\Debug\net5.0\SeriesDIO.AssemblyInfoInputs.cache
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Digital Innovation\C#\SeriesDIO\obj\Debug\net5.0\SeriesDIO.AssemblyInfo.cs
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Digital Innovation\C#\SeriesDIO\obj\Debug\net5.0\SeriesDIO.csproj.CoreCompileInputs.cache
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Digital Innovation\C#\SeriesDIO\obj\Debug\net5.0\SeriesDIO.dll
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Digital Innovation\C#\SeriesDIO\obj\Debug\net5.0\ref\SeriesDIO.dll
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Digital Innovation\C#\SeriesDIO\obj\Debug\net5.0\SeriesDIO.pdb
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Digital Innovation\C#\SeriesDIO\obj\Debug\net5.0\SeriesDIO.genruntimeconfig.cache
